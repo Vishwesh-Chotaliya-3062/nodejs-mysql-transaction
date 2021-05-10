@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-mysql-transaction",
+  "version": "1.0.0",
+  "description": "A demo repo for nodejs mysql transaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ 
+  "keywords": [
+    "nodejs",
+    "mysql"
+  ],
+  
+  "author": "Vishwesh",
+  "dependencies": {
+    "mysql2": "^2.2.5"
+  }
+}
